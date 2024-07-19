@@ -1,0 +1,622 @@
+total train sample: 34446, total train id: 2751
+total valid sample: 5982, total valid id: 580
+epoch: 0, lr: 0.1000000
+       50 loss: 29.057, lcls: 20.468, lreg: 0.852, lemb: 7.737, consume: 149.665s
+      100 loss: 8.291, lcls: 0.323, lreg: 0.696, lemb: 7.272, consume: 88.684s
+      150 loss: 7.799, lcls: 0.289, lreg: 0.603, lemb: 6.906, consume: 88.367s
+      200 loss: 7.447, lcls: 0.277, lreg: 0.580, lemb: 6.591, consume: 88.386s
+      250 loss: 7.178, lcls: 0.271, lreg: 0.567, lemb: 6.341, consume: 88.640s
+    valid loss: 0.807, lcls: 0.266, lreg: 0.540, cm_loss: 0.588, consume: 39.246s
+epoch: 0, consume: 590.935s, train_loss: 11.600, valid_loss: 0.807, cm_loss 0.588
+epoch: 1, lr: 0.1000000
+       50 loss: 6.820, lcls: 0.264, lreg: 0.552, lemb: 6.003, consume: 88.755s
+      100 loss: 6.549, lcls: 0.261, lreg: 0.546, lemb: 5.742, consume: 87.954s
+      150 loss: 6.365, lcls: 0.259, lreg: 0.541, lemb: 5.566, consume: 87.505s
+      200 loss: 6.157, lcls: 0.258, lreg: 0.541, lemb: 5.358, consume: 88.221s
+      250 loss: 5.925, lcls: 0.254, lreg: 0.533, lemb: 5.139, consume: 87.836s
+epoch: 1, consume: 474.099s, train_loss: 6.332, valid_loss: 0.807, cm_loss 0.588
+epoch: 2, lr: 0.1000000
+       50 loss: 5.738, lcls: 0.253, lreg: 0.532, lemb: 4.953, consume: 88.780s
+      100 loss: 5.582, lcls: 0.252, lreg: 0.529, lemb: 4.801, consume: 88.384s
+      150 loss: 5.443, lcls: 0.251, lreg: 0.526, lemb: 4.667, consume: 87.702s
+      200 loss: 5.288, lcls: 0.248, lreg: 0.522, lemb: 4.518, consume: 88.528s
+      250 loss: 5.150, lcls: 0.249, lreg: 0.523, lemb: 4.378, consume: 88.037s
+epoch: 2, consume: 474.876s, train_loss: 5.408, valid_loss: 0.807, cm_loss 0.588
+epoch: 3, lr: 0.1000000
+       50 loss: 4.918, lcls: 0.246, lreg: 0.516, lemb: 4.156, consume: 88.538s
+      100 loss: 4.872, lcls: 0.247, lreg: 0.514, lemb: 4.112, consume: 88.286s
+      150 loss: 4.694, lcls: 0.245, lreg: 0.513, lemb: 3.937, consume: 88.332s
+      200 loss: 4.576, lcls: 0.246, lreg: 0.512, lemb: 3.818, consume: 88.227s
+      250 loss: 4.477, lcls: 0.243, lreg: 0.510, lemb: 3.723, consume: 87.984s
+epoch: 3, consume: 475.109s, train_loss: 4.683, valid_loss: 0.807, cm_loss 0.588
+epoch: 4, lr: 0.1000000
+       50 loss: 4.326, lcls: 0.242, lreg: 0.506, lemb: 3.577, consume: 88.765s
+      100 loss: 4.191, lcls: 0.242, lreg: 0.505, lemb: 3.444, consume: 88.049s
+      150 loss: 4.121, lcls: 0.242, lreg: 0.505, lemb: 3.373, consume: 88.189s
+      200 loss: 4.008, lcls: 0.242, lreg: 0.502, lemb: 3.264, consume: 88.474s
+      250 loss: 3.905, lcls: 0.240, lreg: 0.501, lemb: 3.164, consume: 88.500s
+epoch: 4, consume: 475.448s, train_loss: 4.091, valid_loss: 0.807, cm_loss 0.588
+epoch: 5, lr: 0.1000000
+       50 loss: 3.781, lcls: 0.240, lreg: 0.500, lemb: 3.041, consume: 88.706s
+      100 loss: 3.666, lcls: 0.240, lreg: 0.497, lemb: 2.929, consume: 87.642s
+      150 loss: 3.619, lcls: 0.239, lreg: 0.497, lemb: 2.883, consume: 87.925s
+      200 loss: 3.544, lcls: 0.240, lreg: 0.499, lemb: 2.805, consume: 88.607s
+      250 loss: 3.452, lcls: 0.239, lreg: 0.495, lemb: 2.719, consume: 87.782s
+    valid loss: 0.683, lcls: 0.224, lreg: 0.459, cm_loss: 0.179, consume: 31.624s
+epoch: 5, consume: 510.625s, train_loss: 3.596, valid_loss: 0.683, cm_loss 0.179
+epoch: 6, lr: 0.1000000
+       50 loss: 3.367, lcls: 0.239, lreg: 0.495, lemb: 2.633, consume: 88.850s
+      100 loss: 3.265, lcls: 0.237, lreg: 0.491, lemb: 2.537, consume: 88.035s
+      150 loss: 3.163, lcls: 0.237, lreg: 0.491, lemb: 2.435, consume: 88.233s
+      200 loss: 3.100, lcls: 0.236, lreg: 0.487, lemb: 2.377, consume: 88.084s
+      250 loss: 3.093, lcls: 0.237, lreg: 0.491, lemb: 2.365, consume: 88.587s
+epoch: 6, consume: 475.531s, train_loss: 3.192, valid_loss: 0.683, cm_loss 0.179
+epoch: 7, lr: 0.1000000
+       50 loss: 2.990, lcls: 0.235, lreg: 0.486, lemb: 2.269, consume: 88.376s
+      100 loss: 2.905, lcls: 0.235, lreg: 0.487, lemb: 2.183, consume: 88.393s
+      150 loss: 2.880, lcls: 0.235, lreg: 0.488, lemb: 2.157, consume: 87.908s
+      200 loss: 2.813, lcls: 0.235, lreg: 0.485, lemb: 2.092, consume: 88.212s
+      250 loss: 2.728, lcls: 0.234, lreg: 0.484, lemb: 2.010, consume: 88.585s
+epoch: 7, consume: 475.110s, train_loss: 2.853, valid_loss: 0.683, cm_loss 0.179
+epoch: 8, lr: 0.1000000
+       50 loss: 2.679, lcls: 0.234, lreg: 0.484, lemb: 1.962, consume: 88.780s
+      100 loss: 2.638, lcls: 0.233, lreg: 0.483, lemb: 1.922, consume: 88.431s
+      150 loss: 2.559, lcls: 0.233, lreg: 0.481, lemb: 1.845, consume: 88.106s
+      200 loss: 2.513, lcls: 0.232, lreg: 0.480, lemb: 1.800, consume: 88.394s
+      250 loss: 2.508, lcls: 0.232, lreg: 0.480, lemb: 1.796, consume: 88.163s
+epoch: 8, consume: 475.434s, train_loss: 2.571, valid_loss: 0.683, cm_loss 0.179
+epoch: 9, lr: 0.1000000
+       50 loss: 2.414, lcls: 0.231, lreg: 0.480, lemb: 1.703, consume: 88.863s
+      100 loss: 2.375, lcls: 0.230, lreg: 0.477, lemb: 1.667, consume: 88.409s
+      150 loss: 2.329, lcls: 0.229, lreg: 0.474, lemb: 1.626, consume: 87.842s
+      200 loss: 2.306, lcls: 0.230, lreg: 0.477, lemb: 1.599, consume: 88.349s
+      250 loss: 2.273, lcls: 0.231, lreg: 0.476, lemb: 1.566, consume: 88.186s
+epoch: 9, consume: 475.225s, train_loss: 2.333, valid_loss: 0.683, cm_loss 0.179
+epoch: 10, lr: 0.1000000
+       50 loss: 2.208, lcls: 0.229, lreg: 0.475, lemb: 1.504, consume: 88.606s
+      100 loss: 2.154, lcls: 0.229, lreg: 0.473, lemb: 1.452, consume: 88.332s
+      150 loss: 2.147, lcls: 0.228, lreg: 0.473, lemb: 1.446, consume: 88.082s
+      200 loss: 2.103, lcls: 0.228, lreg: 0.473, lemb: 1.402, consume: 87.839s
+      250 loss: 2.087, lcls: 0.228, lreg: 0.472, lemb: 1.386, consume: 88.258s
+    valid loss: 0.642, lcls: 0.214, lreg: 0.428, cm_loss: 0.122, consume: 31.454s
+epoch: 10, consume: 510.931s, train_loss: 2.136, valid_loss: 0.642, cm_loss 0.122
+epoch: 11, lr: 0.1000000
+       50 loss: 2.058, lcls: 0.227, lreg: 0.470, lemb: 1.361, consume: 89.036s
+      100 loss: 2.010, lcls: 0.226, lreg: 0.469, lemb: 1.315, consume: 88.219s
+      150 loss: 1.973, lcls: 0.227, lreg: 0.471, lemb: 1.275, consume: 88.634s
+      200 loss: 1.938, lcls: 0.226, lreg: 0.470, lemb: 1.242, consume: 88.708s
+      250 loss: 1.884, lcls: 0.225, lreg: 0.467, lemb: 1.192, consume: 88.746s
+epoch: 11, consume: 477.067s, train_loss: 1.966, valid_loss: 0.642, cm_loss 0.122
+epoch: 12, lr: 0.1000000
+       50 loss: 1.871, lcls: 0.225, lreg: 0.467, lemb: 1.179, consume: 89.319s
+      100 loss: 1.830, lcls: 0.224, lreg: 0.465, lemb: 1.141, consume: 88.662s
+      150 loss: 1.836, lcls: 0.225, lreg: 0.466, lemb: 1.145, consume: 88.472s
+      200 loss: 1.791, lcls: 0.223, lreg: 0.463, lemb: 1.105, consume: 88.363s
+      250 loss: 1.792, lcls: 0.224, lreg: 0.467, lemb: 1.102, consume: 88.838s
+epoch: 12, consume: 477.178s, train_loss: 1.820, valid_loss: 0.642, cm_loss 0.122
+epoch: 13, lr: 0.1000000
+       50 loss: 1.729, lcls: 0.223, lreg: 0.463, lemb: 1.043, consume: 89.031s
+      100 loss: 1.741, lcls: 0.223, lreg: 0.464, lemb: 1.053, consume: 88.237s
+      150 loss: 1.713, lcls: 0.222, lreg: 0.463, lemb: 1.028, consume: 88.371s
+      200 loss: 1.670, lcls: 0.223, lreg: 0.463, lemb: 0.985, consume: 88.275s
+      250 loss: 1.670, lcls: 0.223, lreg: 0.462, lemb: 0.986, consume: 88.437s
+epoch: 13, consume: 476.054s, train_loss: 1.702, valid_loss: 0.642, cm_loss 0.122
+epoch: 14, lr: 0.1000000
+       50 loss: 1.617, lcls: 0.221, lreg: 0.459, lemb: 0.937, consume: 88.650s
+      100 loss: 1.604, lcls: 0.222, lreg: 0.461, lemb: 0.921, consume: 88.579s
+      150 loss: 1.608, lcls: 0.221, lreg: 0.460, lemb: 0.927, consume: 88.319s
+      200 loss: 1.580, lcls: 0.222, lreg: 0.460, lemb: 0.899, consume: 88.476s
+      250 loss: 1.572, lcls: 0.220, lreg: 0.459, lemb: 0.893, consume: 88.549s
+epoch: 14, consume: 476.047s, train_loss: 1.594, valid_loss: 0.642, cm_loss 0.122
+epoch: 15, lr: 0.1000000
+       50 loss: 1.514, lcls: 0.220, lreg: 0.455, lemb: 0.839, consume: 88.987s
+      100 loss: 1.533, lcls: 0.220, lreg: 0.458, lemb: 0.855, consume: 88.496s
+      150 loss: 1.498, lcls: 0.220, lreg: 0.458, lemb: 0.820, consume: 88.429s
+      200 loss: 1.479, lcls: 0.218, lreg: 0.454, lemb: 0.807, consume: 87.950s
+      250 loss: 1.474, lcls: 0.219, lreg: 0.456, lemb: 0.799, consume: 88.601s
+    valid loss: 0.622, lcls: 0.205, lreg: 0.416, cm_loss: 0.099, consume: 31.775s
+epoch: 15, consume: 512.502s, train_loss: 1.497, valid_loss: 0.622, cm_loss 0.099
+epoch: 16, lr: 0.1000000
+       50 loss: 1.429, lcls: 0.217, lreg: 0.453, lemb: 0.760, consume: 88.908s
+      100 loss: 1.447, lcls: 0.217, lreg: 0.454, lemb: 0.776, consume: 88.490s
+      150 loss: 1.404, lcls: 0.217, lreg: 0.454, lemb: 0.733, consume: 88.440s
+      200 loss: 1.420, lcls: 0.217, lreg: 0.453, lemb: 0.749, consume: 88.587s
+      250 loss: 1.403, lcls: 0.218, lreg: 0.453, lemb: 0.733, consume: 88.396s
+epoch: 16, consume: 476.334s, train_loss: 1.416, valid_loss: 0.622, cm_loss 0.099
+epoch: 17, lr: 0.1000000
+       50 loss: 1.391, lcls: 0.217, lreg: 0.453, lemb: 0.720, consume: 89.201s
+      100 loss: 1.342, lcls: 0.215, lreg: 0.449, lemb: 0.678, consume: 88.420s
+      150 loss: 1.347, lcls: 0.216, lreg: 0.450, lemb: 0.682, consume: 89.231s
+      200 loss: 1.337, lcls: 0.216, lreg: 0.452, lemb: 0.669, consume: 88.498s
+      250 loss: 1.312, lcls: 0.215, lreg: 0.449, lemb: 0.648, consume: 88.376s
+epoch: 17, consume: 477.552s, train_loss: 1.345, valid_loss: 0.622, cm_loss 0.099
+epoch: 18, lr: 0.1000000
+       50 loss: 1.300, lcls: 0.215, lreg: 0.449, lemb: 0.636, consume: 89.294s
+      100 loss: 1.295, lcls: 0.214, lreg: 0.449, lemb: 0.632, consume: 88.202s
+      150 loss: 1.267, lcls: 0.214, lreg: 0.448, lemb: 0.606, consume: 88.342s
+      200 loss: 1.294, lcls: 0.214, lreg: 0.449, lemb: 0.631, consume: 88.165s
+      250 loss: 1.272, lcls: 0.213, lreg: 0.447, lemb: 0.612, consume: 88.367s
+epoch: 18, consume: 475.850s, train_loss: 1.283, valid_loss: 0.622, cm_loss 0.099
+epoch: 19, lr: 0.1000000
+       50 loss: 1.253, lcls: 0.212, lreg: 0.445, lemb: 0.596, consume: 89.003s
+      100 loss: 1.236, lcls: 0.213, lreg: 0.446, lemb: 0.577, consume: 88.247s
+      150 loss: 1.230, lcls: 0.213, lreg: 0.445, lemb: 0.573, consume: 88.300s
+      200 loss: 1.217, lcls: 0.212, lreg: 0.445, lemb: 0.560, consume: 88.513s
+      250 loss: 1.218, lcls: 0.212, lreg: 0.445, lemb: 0.561, consume: 88.093s
+epoch: 19, consume: 475.800s, train_loss: 1.229, valid_loss: 0.622, cm_loss 0.099
+epoch: 20, lr: 0.1000000
+       50 loss: 1.194, lcls: 0.213, lreg: 0.445, lemb: 0.537, consume: 88.916s
+      100 loss: 1.195, lcls: 0.211, lreg: 0.443, lemb: 0.541, consume: 88.319s
+      150 loss: 1.167, lcls: 0.210, lreg: 0.441, lemb: 0.516, consume: 88.199s
+      200 loss: 1.175, lcls: 0.211, lreg: 0.441, lemb: 0.524, consume: 88.305s
+      250 loss: 1.169, lcls: 0.211, lreg: 0.441, lemb: 0.517, consume: 88.262s
+    valid loss: 0.597, lcls: 0.198, lreg: 0.399, cm_loss: 0.079, consume: 31.722s
+epoch: 20, consume: 512.138s, train_loss: 1.179, valid_loss: 0.597, cm_loss 0.079
+epoch: 21, lr: 0.1000000
+       50 loss: 1.159, lcls: 0.211, lreg: 0.442, lemb: 0.505, consume: 88.872s
+      100 loss: 1.131, lcls: 0.210, lreg: 0.440, lemb: 0.481, consume: 88.306s
+      150 loss: 1.135, lcls: 0.209, lreg: 0.440, lemb: 0.485, consume: 88.734s
+      200 loss: 1.139, lcls: 0.209, lreg: 0.440, lemb: 0.490, consume: 88.623s
+      250 loss: 1.122, lcls: 0.209, lreg: 0.438, lemb: 0.475, consume: 88.259s
+epoch: 21, consume: 476.428s, train_loss: 1.135, valid_loss: 0.597, cm_loss 0.079
+epoch: 22, lr: 0.1000000
+       50 loss: 1.098, lcls: 0.208, lreg: 0.438, lemb: 0.452, consume: 88.606s
+      100 loss: 1.099, lcls: 0.208, lreg: 0.437, lemb: 0.455, consume: 88.097s
+      150 loss: 1.094, lcls: 0.208, lreg: 0.438, lemb: 0.448, consume: 88.615s
+      200 loss: 1.101, lcls: 0.208, lreg: 0.437, lemb: 0.456, consume: 88.490s
+      250 loss: 1.073, lcls: 0.207, lreg: 0.435, lemb: 0.432, consume: 88.424s
+epoch: 22, consume: 475.854s, train_loss: 1.093, valid_loss: 0.597, cm_loss 0.079
+epoch: 23, lr: 0.1000000
+       50 loss: 1.067, lcls: 0.208, lreg: 0.436, lemb: 0.423, consume: 89.218s
+      100 loss: 1.067, lcls: 0.207, lreg: 0.436, lemb: 0.424, consume: 88.438s
+      150 loss: 1.053, lcls: 0.206, lreg: 0.433, lemb: 0.415, consume: 88.234s
+      200 loss: 1.059, lcls: 0.207, lreg: 0.434, lemb: 0.418, consume: 88.519s
+      250 loss: 1.044, lcls: 0.206, lreg: 0.434, lemb: 0.404, consume: 88.248s
+epoch: 23, consume: 476.286s, train_loss: 1.056, valid_loss: 0.597, cm_loss 0.079
+epoch: 24, lr: 0.1000000
+       50 loss: 1.040, lcls: 0.206, lreg: 0.435, lemb: 0.399, consume: 88.615s
+      100 loss: 1.029, lcls: 0.205, lreg: 0.432, lemb: 0.392, consume: 88.412s
+      150 loss: 1.025, lcls: 0.205, lreg: 0.433, lemb: 0.388, consume: 88.180s
+      200 loss: 1.022, lcls: 0.205, lreg: 0.432, lemb: 0.385, consume: 88.324s
+      250 loss: 1.021, lcls: 0.205, lreg: 0.434, lemb: 0.383, consume: 88.841s
+epoch: 24, consume: 475.983s, train_loss: 1.027, valid_loss: 0.597, cm_loss 0.079
+epoch: 25, lr: 0.1000000
+       50 loss: 1.013, lcls: 0.205, lreg: 0.431, lemb: 0.377, consume: 88.927s
+      100 loss: 1.008, lcls: 0.205, lreg: 0.432, lemb: 0.370, consume: 88.312s
+      150 loss: 1.011, lcls: 0.205, lreg: 0.431, lemb: 0.375, consume: 88.807s
+      200 loss: 0.983, lcls: 0.203, lreg: 0.428, lemb: 0.352, consume: 88.416s
+      250 loss: 0.988, lcls: 0.204, lreg: 0.428, lemb: 0.356, consume: 88.571s
+    valid loss: 0.578, lcls: 0.191, lreg: 0.387, cm_loss: 0.072, consume: 31.817s
+epoch: 25, consume: 513.508s, train_loss: 0.999, valid_loss: 0.578, cm_loss 0.072
+epoch: 26, lr: 0.1000000
+       50 loss: 0.969, lcls: 0.203, lreg: 0.427, lemb: 0.339, consume: 89.114s
+      100 loss: 0.984, lcls: 0.204, lreg: 0.430, lemb: 0.350, consume: 88.582s
+      150 loss: 0.977, lcls: 0.204, lreg: 0.429, lemb: 0.344, consume: 88.414s
+      200 loss: 0.962, lcls: 0.202, lreg: 0.425, lemb: 0.334, consume: 87.860s
+      250 loss: 0.966, lcls: 0.203, lreg: 0.427, lemb: 0.336, consume: 88.651s
+epoch: 26, consume: 476.331s, train_loss: 0.971, valid_loss: 0.578, cm_loss 0.072
+epoch: 27, lr: 0.1000000
+       50 loss: 0.950, lcls: 0.202, lreg: 0.426, lemb: 0.322, consume: 88.819s
+      100 loss: 0.957, lcls: 0.202, lreg: 0.426, lemb: 0.328, consume: 88.479s
+      150 loss: 0.948, lcls: 0.202, lreg: 0.425, lemb: 0.320, consume: 88.850s
+      200 loss: 0.937, lcls: 0.201, lreg: 0.423, lemb: 0.313, consume: 88.566s
+      250 loss: 0.940, lcls: 0.201, lreg: 0.426, lemb: 0.312, consume: 88.698s
+epoch: 27, consume: 477.017s, train_loss: 0.946, valid_loss: 0.578, cm_loss 0.072
+epoch: 28, lr: 0.1000000
+       50 loss: 0.931, lcls: 0.200, lreg: 0.421, lemb: 0.310, consume: 88.636s
+      100 loss: 0.925, lcls: 0.200, lreg: 0.422, lemb: 0.304, consume: 88.096s
+      150 loss: 0.923, lcls: 0.200, lreg: 0.421, lemb: 0.302, consume: 88.392s
+      200 loss: 0.918, lcls: 0.201, lreg: 0.424, lemb: 0.294, consume: 88.827s
+      250 loss: 0.913, lcls: 0.200, lreg: 0.423, lemb: 0.289, consume: 88.613s
+epoch: 28, consume: 476.495s, train_loss: 0.922, valid_loss: 0.578, cm_loss 0.072
+epoch: 29, lr: 0.1000000
+       50 loss: 0.926, lcls: 0.201, lreg: 0.425, lemb: 0.300, consume: 89.407s
+      100 loss: 0.912, lcls: 0.200, lreg: 0.420, lemb: 0.291, consume: 87.980s
+      150 loss: 0.896, lcls: 0.198, lreg: 0.421, lemb: 0.277, consume: 88.628s
+      200 loss: 0.896, lcls: 0.199, lreg: 0.420, lemb: 0.277, consume: 90.791s
+      250 loss: 0.899, lcls: 0.199, lreg: 0.420, lemb: 0.280, consume: 88.350s
+epoch: 29, consume: 479.168s, train_loss: 0.905, valid_loss: 0.578, cm_loss 0.072
+epoch: 30, lr: 0.1000000
+       50 loss: 0.896, lcls: 0.198, lreg: 0.420, lemb: 0.277, consume: 88.967s
+      100 loss: 0.889, lcls: 0.198, lreg: 0.420, lemb: 0.271, consume: 88.573s
+      150 loss: 0.877, lcls: 0.198, lreg: 0.416, lemb: 0.263, consume: 88.537s
+      200 loss: 0.872, lcls: 0.198, lreg: 0.418, lemb: 0.257, consume: 89.217s
+      250 loss: 0.883, lcls: 0.198, lreg: 0.419, lemb: 0.266, consume: 88.306s
+    valid loss: 0.564, lcls: 0.186, lreg: 0.377, cm_loss: 0.068, consume: 31.883s
+epoch: 30, consume: 513.808s, train_loss: 0.883, valid_loss: 0.564, cm_loss 0.068
+epoch: 31, lr: 0.1000000
+       50 loss: 0.868, lcls: 0.197, lreg: 0.418, lemb: 0.253, consume: 88.964s
+      100 loss: 0.866, lcls: 0.197, lreg: 0.414, lemb: 0.255, consume: 88.728s
+      150 loss: 0.857, lcls: 0.196, lreg: 0.415, lemb: 0.245, consume: 88.894s
+      200 loss: 0.867, lcls: 0.197, lreg: 0.418, lemb: 0.252, consume: 88.606s
+      250 loss: 0.867, lcls: 0.197, lreg: 0.417, lemb: 0.253, consume: 88.681s
+epoch: 31, consume: 477.607s, train_loss: 0.866, valid_loss: 0.564, cm_loss 0.068
+epoch: 32, lr: 0.1000000
+       50 loss: 0.853, lcls: 0.196, lreg: 0.415, lemb: 0.242, consume: 88.831s
+      100 loss: 0.853, lcls: 0.195, lreg: 0.414, lemb: 0.244, consume: 88.139s
+      150 loss: 0.851, lcls: 0.196, lreg: 0.415, lemb: 0.240, consume: 88.581s
+      200 loss: 0.842, lcls: 0.196, lreg: 0.415, lemb: 0.231, consume: 88.262s
+      250 loss: 0.849, lcls: 0.196, lreg: 0.415, lemb: 0.238, consume: 88.415s
+epoch: 32, consume: 475.901s, train_loss: 0.849, valid_loss: 0.564, cm_loss 0.068
+epoch: 33, lr: 0.1000000
+       50 loss: 0.842, lcls: 0.196, lreg: 0.414, lemb: 0.232, consume: 89.272s
+      100 loss: 0.843, lcls: 0.195, lreg: 0.414, lemb: 0.234, consume: 88.472s
+      150 loss: 0.827, lcls: 0.195, lreg: 0.411, lemb: 0.222, consume: 88.421s
+      200 loss: 0.838, lcls: 0.195, lreg: 0.412, lemb: 0.230, consume: 88.544s
+      250 loss: 0.828, lcls: 0.195, lreg: 0.412, lemb: 0.222, consume: 88.368s
+epoch: 33, consume: 476.795s, train_loss: 0.836, valid_loss: 0.564, cm_loss 0.068
+epoch: 34, lr: 0.1000000
+       50 loss: 0.816, lcls: 0.194, lreg: 0.410, lemb: 0.212, consume: 88.758s
+      100 loss: 0.822, lcls: 0.194, lreg: 0.410, lemb: 0.218, consume: 88.441s
+      150 loss: 0.825, lcls: 0.194, lreg: 0.411, lemb: 0.220, consume: 88.350s
+      200 loss: 0.827, lcls: 0.195, lreg: 0.412, lemb: 0.221, consume: 88.430s
+      250 loss: 0.812, lcls: 0.193, lreg: 0.409, lemb: 0.210, consume: 88.604s
+epoch: 34, consume: 476.339s, train_loss: 0.820, valid_loss: 0.564, cm_loss 0.068
+epoch: 35, lr: 0.1000000
+       50 loss: 0.813, lcls: 0.193, lreg: 0.410, lemb: 0.210, consume: 88.961s
+      100 loss: 0.814, lcls: 0.194, lreg: 0.410, lemb: 0.210, consume: 88.821s
+      150 loss: 0.812, lcls: 0.193, lreg: 0.409, lemb: 0.210, consume: 88.920s
+      200 loss: 0.805, lcls: 0.193, lreg: 0.409, lemb: 0.203, consume: 88.591s
+      250 loss: 0.797, lcls: 0.193, lreg: 0.408, lemb: 0.197, consume: 88.522s
+    valid loss: 0.548, lcls: 0.182, lreg: 0.366, cm_loss: 0.062, consume: 31.653s
+epoch: 35, consume: 513.587s, train_loss: 0.808, valid_loss: 0.548, cm_loss 0.062
+epoch: 36, lr: 0.1000000
+       50 loss: 0.797, lcls: 0.192, lreg: 0.407, lemb: 0.198, consume: 89.342s
+      100 loss: 0.799, lcls: 0.192, lreg: 0.407, lemb: 0.200, consume: 88.509s
+      150 loss: 0.794, lcls: 0.192, lreg: 0.406, lemb: 0.196, consume: 88.538s
+      200 loss: 0.799, lcls: 0.193, lreg: 0.409, lemb: 0.198, consume: 88.886s
+      250 loss: 0.788, lcls: 0.191, lreg: 0.406, lemb: 0.190, consume: 88.335s
+epoch: 36, consume: 477.299s, train_loss: 0.795, valid_loss: 0.548, cm_loss 0.062
+epoch: 37, lr: 0.1000000
+       50 loss: 0.788, lcls: 0.191, lreg: 0.405, lemb: 0.191, consume: 89.466s
+      100 loss: 0.791, lcls: 0.192, lreg: 0.407, lemb: 0.192, consume: 88.755s
+      150 loss: 0.781, lcls: 0.191, lreg: 0.404, lemb: 0.187, consume: 88.223s
+      200 loss: 0.779, lcls: 0.190, lreg: 0.403, lemb: 0.186, consume: 87.980s
+      250 loss: 0.780, lcls: 0.191, lreg: 0.406, lemb: 0.183, consume: 88.792s
+epoch: 37, consume: 476.977s, train_loss: 0.784, valid_loss: 0.548, cm_loss 0.062
+epoch: 38, lr: 0.1000000
+       50 loss: 0.774, lcls: 0.191, lreg: 0.404, lemb: 0.179, consume: 88.816s
+      100 loss: 0.779, lcls: 0.191, lreg: 0.405, lemb: 0.183, consume: 88.975s
+      150 loss: 0.769, lcls: 0.190, lreg: 0.401, lemb: 0.178, consume: 88.490s
+      200 loss: 0.773, lcls: 0.191, lreg: 0.404, lemb: 0.178, consume: 88.708s
+      250 loss: 0.767, lcls: 0.191, lreg: 0.401, lemb: 0.176, consume: 88.827s
+epoch: 38, consume: 477.702s, train_loss: 0.772, valid_loss: 0.548, cm_loss 0.062
+epoch: 39, lr: 0.1000000
+       50 loss: 0.772, lcls: 0.191, lreg: 0.403, lemb: 0.178, consume: 89.298s
+      100 loss: 0.764, lcls: 0.189, lreg: 0.403, lemb: 0.172, consume: 88.455s
+      150 loss: 0.767, lcls: 0.190, lreg: 0.404, lemb: 0.173, consume: 89.145s
+      200 loss: 0.759, lcls: 0.190, lreg: 0.402, lemb: 0.167, consume: 88.485s
+      250 loss: 0.761, lcls: 0.190, lreg: 0.400, lemb: 0.172, consume: 88.423s
+epoch: 39, consume: 477.209s, train_loss: 0.764, valid_loss: 0.548, cm_loss 0.062
+epoch: 40, lr: 0.1000000
+       50 loss: 0.759, lcls: 0.189, lreg: 0.401, lemb: 0.169, consume: 88.815s
+      100 loss: 0.759, lcls: 0.189, lreg: 0.401, lemb: 0.168, consume: 89.026s
+      150 loss: 0.756, lcls: 0.189, lreg: 0.400, lemb: 0.167, consume: 88.404s
+      200 loss: 0.750, lcls: 0.190, lreg: 0.401, lemb: 0.159, consume: 88.610s
+      250 loss: 0.748, lcls: 0.188, lreg: 0.400, lemb: 0.160, consume: 88.212s
+    valid loss: 0.536, lcls: 0.177, lreg: 0.358, cm_loss: 0.057, consume: 31.661s
+epoch: 40, consume: 513.528s, train_loss: 0.754, valid_loss: 0.536, cm_loss 0.057
+epoch: 41, lr: 0.1000000
+       50 loss: 0.743, lcls: 0.188, lreg: 0.398, lemb: 0.157, consume: 89.005s
+      100 loss: 0.749, lcls: 0.189, lreg: 0.401, lemb: 0.160, consume: 88.129s
+      150 loss: 0.747, lcls: 0.189, lreg: 0.400, lemb: 0.159, consume: 88.343s
+      200 loss: 0.740, lcls: 0.187, lreg: 0.396, lemb: 0.157, consume: 88.182s
+      250 loss: 0.740, lcls: 0.187, lreg: 0.397, lemb: 0.156, consume: 88.318s
+epoch: 41, consume: 475.730s, train_loss: 0.744, valid_loss: 0.536, cm_loss 0.057
+epoch: 42, lr: 0.1000000
+       50 loss: 0.741, lcls: 0.188, lreg: 0.398, lemb: 0.155, consume: 89.031s
+      100 loss: 0.733, lcls: 0.188, lreg: 0.396, lemb: 0.149, consume: 88.162s
+      150 loss: 0.733, lcls: 0.187, lreg: 0.395, lemb: 0.152, consume: 88.087s
+      200 loss: 0.742, lcls: 0.188, lreg: 0.397, lemb: 0.157, consume: 88.062s
+      250 loss: 0.730, lcls: 0.187, lreg: 0.396, lemb: 0.147, consume: 88.235s
+epoch: 42, consume: 475.310s, train_loss: 0.735, valid_loss: 0.536, cm_loss 0.057
+epoch: 43, lr: 0.1000000
+       50 loss: 0.729, lcls: 0.187, lreg: 0.396, lemb: 0.147, consume: 89.044s
+      100 loss: 0.728, lcls: 0.187, lreg: 0.395, lemb: 0.146, consume: 88.669s
+      150 loss: 0.725, lcls: 0.186, lreg: 0.393, lemb: 0.146, consume: 88.383s
+      200 loss: 0.731, lcls: 0.187, lreg: 0.395, lemb: 0.149, consume: 88.472s
+      250 loss: 0.725, lcls: 0.186, lreg: 0.394, lemb: 0.145, consume: 88.544s
+epoch: 43, consume: 476.737s, train_loss: 0.727, valid_loss: 0.536, cm_loss 0.057
+epoch: 44, lr: 0.1000000
+       50 loss: 0.722, lcls: 0.186, lreg: 0.394, lemb: 0.142, consume: 89.019s
+      100 loss: 0.722, lcls: 0.186, lreg: 0.394, lemb: 0.142, consume: 88.698s
+      150 loss: 0.719, lcls: 0.186, lreg: 0.394, lemb: 0.139, consume: 88.054s
+      200 loss: 0.722, lcls: 0.186, lreg: 0.396, lemb: 0.141, consume: 88.401s
+      250 loss: 0.717, lcls: 0.185, lreg: 0.391, lemb: 0.141, consume: 88.528s
+epoch: 44, consume: 476.815s, train_loss: 0.719, valid_loss: 0.536, cm_loss 0.057
+epoch: 45, lr: 0.1000000
+       50 loss: 0.707, lcls: 0.184, lreg: 0.389, lemb: 0.133, consume: 88.621s
+      100 loss: 0.712, lcls: 0.185, lreg: 0.391, lemb: 0.137, consume: 88.137s
+      150 loss: 0.714, lcls: 0.186, lreg: 0.392, lemb: 0.136, consume: 88.700s
+      200 loss: 0.715, lcls: 0.185, lreg: 0.392, lemb: 0.137, consume: 88.253s
+      250 loss: 0.712, lcls: 0.186, lreg: 0.391, lemb: 0.135, consume: 88.208s
+    valid loss: 0.527, lcls: 0.174, lreg: 0.354, cm_loss: 0.053, consume: 31.407s
+epoch: 45, consume: 511.808s, train_loss: 0.712, valid_loss: 0.527, cm_loss 0.053
+epoch: 46, lr: 0.1000000
+       50 loss: 0.708, lcls: 0.185, lreg: 0.390, lemb: 0.133, consume: 88.895s
+      100 loss: 0.707, lcls: 0.184, lreg: 0.390, lemb: 0.133, consume: 88.108s
+      150 loss: 0.700, lcls: 0.184, lreg: 0.389, lemb: 0.127, consume: 88.680s
+      200 loss: 0.703, lcls: 0.184, lreg: 0.389, lemb: 0.129, consume: 88.675s
+      250 loss: 0.702, lcls: 0.184, lreg: 0.389, lemb: 0.129, consume: 87.994s
+epoch: 46, consume: 476.071s, train_loss: 0.704, valid_loss: 0.527, cm_loss 0.053
+epoch: 47, lr: 0.1000000
+       50 loss: 0.698, lcls: 0.184, lreg: 0.389, lemb: 0.125, consume: 89.227s
+      100 loss: 0.701, lcls: 0.184, lreg: 0.390, lemb: 0.127, consume: 88.953s
+      150 loss: 0.697, lcls: 0.183, lreg: 0.388, lemb: 0.126, consume: 89.512s
+      200 loss: 0.696, lcls: 0.183, lreg: 0.386, lemb: 0.127, consume: 88.397s
+      250 loss: 0.701, lcls: 0.184, lreg: 0.391, lemb: 0.126, consume: 88.745s
+epoch: 47, consume: 478.761s, train_loss: 0.698, valid_loss: 0.527, cm_loss 0.053
+epoch: 48, lr: 0.1000000
+       50 loss: 0.691, lcls: 0.184, lreg: 0.387, lemb: 0.120, consume: 89.314s
+      100 loss: 0.693, lcls: 0.183, lreg: 0.388, lemb: 0.122, consume: 88.475s
+      150 loss: 0.698, lcls: 0.184, lreg: 0.388, lemb: 0.126, consume: 88.671s
+      200 loss: 0.688, lcls: 0.183, lreg: 0.385, lemb: 0.120, consume: 88.281s
+      250 loss: 0.685, lcls: 0.182, lreg: 0.385, lemb: 0.118, consume: 88.283s
+epoch: 48, consume: 476.625s, train_loss: 0.691, valid_loss: 0.527, cm_loss 0.053
+epoch: 49, lr: 0.1000000
+       50 loss: 0.688, lcls: 0.183, lreg: 0.387, lemb: 0.119, consume: 88.692s
+      100 loss: 0.684, lcls: 0.182, lreg: 0.384, lemb: 0.118, consume: 88.264s
+      150 loss: 0.687, lcls: 0.183, lreg: 0.385, lemb: 0.119, consume: 88.262s
+      200 loss: 0.683, lcls: 0.182, lreg: 0.384, lemb: 0.117, consume: 87.766s
+      250 loss: 0.683, lcls: 0.182, lreg: 0.386, lemb: 0.116, consume: 88.110s
+epoch: 49, consume: 474.936s, train_loss: 0.685, valid_loss: 0.527, cm_loss 0.053
+epoch: 50, lr: 0.1000000
+       50 loss: 0.685, lcls: 0.182, lreg: 0.385, lemb: 0.118, consume: 89.156s
+      100 loss: 0.678, lcls: 0.181, lreg: 0.382, lemb: 0.115, consume: 87.776s
+      150 loss: 0.680, lcls: 0.182, lreg: 0.384, lemb: 0.114, consume: 88.280s
+      200 loss: 0.681, lcls: 0.183, lreg: 0.386, lemb: 0.112, consume: 88.860s
+      250 loss: 0.678, lcls: 0.182, lreg: 0.385, lemb: 0.112, consume: 88.150s
+    valid loss: 0.515, lcls: 0.169, lreg: 0.346, cm_loss: 0.050, consume: 31.700s
+epoch: 50, consume: 512.241s, train_loss: 0.681, valid_loss: 0.515, cm_loss 0.050
+epoch: 51, lr: 0.1000000
+       50 loss: 0.677, lcls: 0.182, lreg: 0.383, lemb: 0.112, consume: 89.080s
+      100 loss: 0.675, lcls: 0.182, lreg: 0.384, lemb: 0.110, consume: 88.368s
+      150 loss: 0.683, lcls: 0.183, lreg: 0.386, lemb: 0.115, consume: 88.684s
+      200 loss: 0.672, lcls: 0.181, lreg: 0.382, lemb: 0.110, consume: 88.484s
+      250 loss: 0.671, lcls: 0.181, lreg: 0.381, lemb: 0.110, consume: 88.609s
+epoch: 51, consume: 476.920s, train_loss: 0.675, valid_loss: 0.515, cm_loss 0.050
+epoch: 52, lr: 0.1000000
+       50 loss: 0.666, lcls: 0.181, lreg: 0.380, lemb: 0.105, consume: 88.850s
+      100 loss: 0.667, lcls: 0.180, lreg: 0.379, lemb: 0.108, consume: 88.662s
+      150 loss: 0.666, lcls: 0.181, lreg: 0.382, lemb: 0.104, consume: 88.442s
+      200 loss: 0.671, lcls: 0.180, lreg: 0.383, lemb: 0.108, consume: 88.084s
+      250 loss: 0.669, lcls: 0.181, lreg: 0.380, lemb: 0.108, consume: 88.157s
+epoch: 52, consume: 475.874s, train_loss: 0.668, valid_loss: 0.515, cm_loss 0.050
+epoch: 53, lr: 0.1000000
+       50 loss: 0.667, lcls: 0.181, lreg: 0.381, lemb: 0.105, consume: 88.961s
+      100 loss: 0.664, lcls: 0.180, lreg: 0.378, lemb: 0.106, consume: 88.395s
+      150 loss: 0.663, lcls: 0.179, lreg: 0.379, lemb: 0.105, consume: 88.188s
+      200 loss: 0.667, lcls: 0.181, lreg: 0.380, lemb: 0.107, consume: 88.411s
+      250 loss: 0.664, lcls: 0.180, lreg: 0.380, lemb: 0.104, consume: 88.328s
+epoch: 53, consume: 475.955s, train_loss: 0.665, valid_loss: 0.515, cm_loss 0.050
+epoch: 54, lr: 0.1000000
+       50 loss: 0.661, lcls: 0.180, lreg: 0.380, lemb: 0.101, consume: 89.038s
+      100 loss: 0.657, lcls: 0.180, lreg: 0.378, lemb: 0.099, consume: 88.278s
+      150 loss: 0.661, lcls: 0.180, lreg: 0.380, lemb: 0.100, consume: 88.335s
+      200 loss: 0.653, lcls: 0.178, lreg: 0.375, lemb: 0.100, consume: 88.218s
+      250 loss: 0.659, lcls: 0.179, lreg: 0.377, lemb: 0.102, consume: 89.082s
+epoch: 54, consume: 476.467s, train_loss: 0.659, valid_loss: 0.515, cm_loss 0.050
+epoch: 55, lr: 0.1000000
+       50 loss: 0.652, lcls: 0.179, lreg: 0.375, lemb: 0.098, consume: 88.825s
+      100 loss: 0.652, lcls: 0.179, lreg: 0.375, lemb: 0.099, consume: 88.843s
+      150 loss: 0.658, lcls: 0.180, lreg: 0.378, lemb: 0.100, consume: 88.275s
+      200 loss: 0.655, lcls: 0.178, lreg: 0.375, lemb: 0.101, consume: 87.946s
+      250 loss: 0.662, lcls: 0.180, lreg: 0.380, lemb: 0.102, consume: 88.202s
+    valid loss: 0.514, lcls: 0.167, lreg: 0.346, cm_loss: 0.047, consume: 31.846s
+epoch: 55, consume: 512.305s, train_loss: 0.655, valid_loss: 0.514, cm_loss 0.047
+epoch: 56, lr: 0.1000000
+       50 loss: 0.653, lcls: 0.179, lreg: 0.375, lemb: 0.099, consume: 88.583s
+      100 loss: 0.649, lcls: 0.178, lreg: 0.377, lemb: 0.094, consume: 88.723s
+      150 loss: 0.650, lcls: 0.179, lreg: 0.375, lemb: 0.096, consume: 88.321s
+      200 loss: 0.651, lcls: 0.178, lreg: 0.376, lemb: 0.097, consume: 88.391s
+      250 loss: 0.646, lcls: 0.178, lreg: 0.376, lemb: 0.093, consume: 88.527s
+epoch: 56, consume: 476.088s, train_loss: 0.650, valid_loss: 0.514, cm_loss 0.047
+epoch: 57, lr: 0.1000000
+       50 loss: 0.647, lcls: 0.178, lreg: 0.375, lemb: 0.094, consume: 88.703s
+      100 loss: 0.641, lcls: 0.177, lreg: 0.372, lemb: 0.091, consume: 88.036s
+      150 loss: 0.641, lcls: 0.177, lreg: 0.372, lemb: 0.093, consume: 87.818s
+      200 loss: 0.646, lcls: 0.178, lreg: 0.374, lemb: 0.094, consume: 88.882s
+      250 loss: 0.645, lcls: 0.178, lreg: 0.374, lemb: 0.093, consume: 88.332s
+epoch: 57, consume: 475.392s, train_loss: 0.645, valid_loss: 0.514, cm_loss 0.047
+epoch: 58, lr: 0.1000000
+       50 loss: 0.642, lcls: 0.177, lreg: 0.374, lemb: 0.090, consume: 88.890s
+      100 loss: 0.641, lcls: 0.177, lreg: 0.372, lemb: 0.091, consume: 88.385s
+      150 loss: 0.643, lcls: 0.178, lreg: 0.373, lemb: 0.092, consume: 88.364s
+      200 loss: 0.636, lcls: 0.177, lreg: 0.371, lemb: 0.088, consume: 88.307s
+      250 loss: 0.639, lcls: 0.177, lreg: 0.371, lemb: 0.091, consume: 88.152s
+epoch: 58, consume: 475.822s, train_loss: 0.640, valid_loss: 0.514, cm_loss 0.047
+epoch: 59, lr: 0.1000000
+       50 loss: 0.638, lcls: 0.177, lreg: 0.373, lemb: 0.089, consume: 89.308s
+      100 loss: 0.637, lcls: 0.177, lreg: 0.373, lemb: 0.088, consume: 88.416s
+      150 loss: 0.634, lcls: 0.176, lreg: 0.370, lemb: 0.088, consume: 88.707s
+      200 loss: 0.632, lcls: 0.176, lreg: 0.371, lemb: 0.085, consume: 89.639s
+      250 loss: 0.639, lcls: 0.178, lreg: 0.373, lemb: 0.088, consume: 89.457s
+epoch: 59, consume: 479.122s, train_loss: 0.636, valid_loss: 0.514, cm_loss 0.047
+epoch: 60, lr: 0.1000000
+       50 loss: 0.632, lcls: 0.176, lreg: 0.371, lemb: 0.086, consume: 89.491s
+      100 loss: 0.630, lcls: 0.176, lreg: 0.369, lemb: 0.085, consume: 88.446s
+      150 loss: 0.631, lcls: 0.176, lreg: 0.370, lemb: 0.085, consume: 88.526s
+      200 loss: 0.635, lcls: 0.177, lreg: 0.373, lemb: 0.085, consume: 88.609s
+      250 loss: 0.632, lcls: 0.177, lreg: 0.370, lemb: 0.085, consume: 89.025s
+    valid loss: 0.493, lcls: 0.163, lreg: 0.330, cm_loss: 0.045, consume: 31.889s
+epoch: 60, consume: 514.036s, train_loss: 0.632, valid_loss: 0.493, cm_loss 0.045
+epoch: 61, lr: 0.1000000
+       50 loss: 0.626, lcls: 0.175, lreg: 0.368, lemb: 0.082, consume: 88.688s
+      100 loss: 0.633, lcls: 0.176, lreg: 0.370, lemb: 0.087, consume: 88.412s
+      150 loss: 0.628, lcls: 0.176, lreg: 0.369, lemb: 0.084, consume: 88.488s
+      200 loss: 0.632, lcls: 0.176, lreg: 0.370, lemb: 0.086, consume: 88.589s
+      250 loss: 0.625, lcls: 0.175, lreg: 0.367, lemb: 0.083, consume: 88.534s
+epoch: 61, consume: 476.725s, train_loss: 0.629, valid_loss: 0.493, cm_loss 0.045
+epoch: 62, lr: 0.1000000
+       50 loss: 0.630, lcls: 0.176, lreg: 0.370, lemb: 0.083, consume: 89.102s
+      100 loss: 0.630, lcls: 0.175, lreg: 0.370, lemb: 0.085, consume: 88.478s
+      150 loss: 0.622, lcls: 0.175, lreg: 0.366, lemb: 0.081, consume: 88.917s
+      200 loss: 0.621, lcls: 0.175, lreg: 0.367, lemb: 0.080, consume: 88.553s
+      250 loss: 0.622, lcls: 0.175, lreg: 0.366, lemb: 0.081, consume: 88.361s
+epoch: 62, consume: 477.141s, train_loss: 0.625, valid_loss: 0.493, cm_loss 0.045
+epoch: 63, lr: 0.1000000
+       50 loss: 0.623, lcls: 0.175, lreg: 0.366, lemb: 0.082, consume: 88.886s
+      100 loss: 0.620, lcls: 0.175, lreg: 0.367, lemb: 0.079, consume: 88.721s
+      150 loss: 0.619, lcls: 0.175, lreg: 0.366, lemb: 0.078, consume: 88.480s
+      200 loss: 0.616, lcls: 0.173, lreg: 0.364, lemb: 0.079, consume: 88.554s
+      250 loss: 0.622, lcls: 0.175, lreg: 0.367, lemb: 0.081, consume: 88.765s
+epoch: 63, consume: 476.996s, train_loss: 0.620, valid_loss: 0.493, cm_loss 0.045
+epoch: 64, lr: 0.1000000
+       50 loss: 0.619, lcls: 0.175, lreg: 0.365, lemb: 0.080, consume: 89.063s
+      100 loss: 0.616, lcls: 0.174, lreg: 0.366, lemb: 0.076, consume: 89.276s
+      150 loss: 0.611, lcls: 0.173, lreg: 0.363, lemb: 0.075, consume: 88.430s
+      200 loss: 0.617, lcls: 0.174, lreg: 0.365, lemb: 0.078, consume: 88.593s
+      250 loss: 0.619, lcls: 0.174, lreg: 0.365, lemb: 0.079, consume: 88.799s
+epoch: 64, consume: 477.708s, train_loss: 0.617, valid_loss: 0.493, cm_loss 0.045
+epoch: 65, lr: 0.1000000
+       50 loss: 0.618, lcls: 0.175, lreg: 0.366, lemb: 0.078, consume: 89.176s
+      100 loss: 0.617, lcls: 0.174, lreg: 0.366, lemb: 0.078, consume: 88.544s
+      150 loss: 0.613, lcls: 0.173, lreg: 0.364, lemb: 0.076, consume: 88.711s
+      200 loss: 0.611, lcls: 0.174, lreg: 0.362, lemb: 0.075, consume: 88.708s
+      250 loss: 0.614, lcls: 0.173, lreg: 0.364, lemb: 0.076, consume: 88.142s
+    valid loss: 0.492, lcls: 0.162, lreg: 0.330, cm_loss: 0.043, consume: 31.522s
+epoch: 65, consume: 513.560s, train_loss: 0.614, valid_loss: 0.492, cm_loss 0.043
+epoch: 66, lr: 0.1000000
+       50 loss: 0.611, lcls: 0.174, lreg: 0.364, lemb: 0.073, consume: 88.838s
+      100 loss: 0.612, lcls: 0.174, lreg: 0.364, lemb: 0.074, consume: 88.666s
+      150 loss: 0.609, lcls: 0.173, lreg: 0.361, lemb: 0.075, consume: 88.652s
+      200 loss: 0.607, lcls: 0.173, lreg: 0.361, lemb: 0.073, consume: 87.941s
+      250 loss: 0.608, lcls: 0.172, lreg: 0.360, lemb: 0.076, consume: 88.453s
+epoch: 66, consume: 476.056s, train_loss: 0.610, valid_loss: 0.492, cm_loss 0.043
+epoch: 67, lr: 0.1000000
+       50 loss: 0.610, lcls: 0.173, lreg: 0.363, lemb: 0.074, consume: 89.281s
+      100 loss: 0.606, lcls: 0.172, lreg: 0.360, lemb: 0.074, consume: 88.432s
+      150 loss: 0.604, lcls: 0.172, lreg: 0.361, lemb: 0.071, consume: 88.296s
+      200 loss: 0.607, lcls: 0.172, lreg: 0.361, lemb: 0.073, consume: 88.362s
+      250 loss: 0.609, lcls: 0.173, lreg: 0.362, lemb: 0.074, consume: 88.453s
+epoch: 67, consume: 476.498s, train_loss: 0.607, valid_loss: 0.492, cm_loss 0.043
+epoch: 68, lr: 0.1000000
+       50 loss: 0.601, lcls: 0.172, lreg: 0.359, lemb: 0.070, consume: 88.430s
+      100 loss: 0.603, lcls: 0.172, lreg: 0.361, lemb: 0.070, consume: 88.264s
+      150 loss: 0.604, lcls: 0.172, lreg: 0.360, lemb: 0.072, consume: 88.178s
+      200 loss: 0.607, lcls: 0.173, lreg: 0.363, lemb: 0.071, consume: 88.812s
+      250 loss: 0.603, lcls: 0.173, lreg: 0.361, lemb: 0.070, consume: 88.886s
+epoch: 68, consume: 476.271s, train_loss: 0.603, valid_loss: 0.492, cm_loss 0.043
+epoch: 69, lr: 0.1000000
+       50 loss: 0.599, lcls: 0.172, lreg: 0.359, lemb: 0.068, consume: 89.075s
+      100 loss: 0.599, lcls: 0.172, lreg: 0.358, lemb: 0.069, consume: 88.304s
+      150 loss: 0.602, lcls: 0.171, lreg: 0.358, lemb: 0.073, consume: 88.184s
+      200 loss: 0.600, lcls: 0.172, lreg: 0.359, lemb: 0.069, consume: 88.263s
+      250 loss: 0.603, lcls: 0.172, lreg: 0.359, lemb: 0.072, consume: 88.615s
+epoch: 69, consume: 476.012s, train_loss: 0.600, valid_loss: 0.492, cm_loss 0.043
+epoch: 70, lr: 0.1000000
+       50 loss: 0.596, lcls: 0.171, lreg: 0.358, lemb: 0.067, consume: 88.942s
+      100 loss: 0.599, lcls: 0.171, lreg: 0.359, lemb: 0.069, consume: 88.502s
+      150 loss: 0.596, lcls: 0.170, lreg: 0.357, lemb: 0.068, consume: 88.337s
+      200 loss: 0.599, lcls: 0.171, lreg: 0.359, lemb: 0.070, consume: 88.232s
+      250 loss: 0.604, lcls: 0.172, lreg: 0.361, lemb: 0.071, consume: 88.520s
+    valid loss: 0.487, lcls: 0.160, lreg: 0.327, cm_loss: 0.043, consume: 31.549s
+epoch: 70, consume: 512.756s, train_loss: 0.599, valid_loss: 0.487, cm_loss 0.043
+epoch: 71, lr: 0.1000000
+       50 loss: 0.597, lcls: 0.171, lreg: 0.359, lemb: 0.067, consume: 89.012s
+      100 loss: 0.593, lcls: 0.171, lreg: 0.356, lemb: 0.066, consume: 88.474s
+      150 loss: 0.599, lcls: 0.171, lreg: 0.360, lemb: 0.068, consume: 88.832s
+      200 loss: 0.595, lcls: 0.171, lreg: 0.357, lemb: 0.067, consume: 88.813s
+      250 loss: 0.589, lcls: 0.170, lreg: 0.354, lemb: 0.065, consume: 90.171s
+epoch: 71, consume: 479.709s, train_loss: 0.594, valid_loss: 0.487, cm_loss 0.043
+epoch: 72, lr: 0.1000000
+       50 loss: 0.593, lcls: 0.171, lreg: 0.356, lemb: 0.065, consume: 88.828s
+      100 loss: 0.591, lcls: 0.170, lreg: 0.358, lemb: 0.062, consume: 89.227s
+      150 loss: 0.588, lcls: 0.170, lreg: 0.354, lemb: 0.064, consume: 89.827s
+      200 loss: 0.594, lcls: 0.171, lreg: 0.358, lemb: 0.065, consume: 89.299s
+      250 loss: 0.591, lcls: 0.170, lreg: 0.355, lemb: 0.065, consume: 89.060s
+epoch: 72, consume: 479.694s, train_loss: 0.592, valid_loss: 0.487, cm_loss 0.043
+epoch: 73, lr: 0.1000000
+       50 loss: 0.593, lcls: 0.170, lreg: 0.355, lemb: 0.068, consume: 88.890s
+      100 loss: 0.592, lcls: 0.170, lreg: 0.358, lemb: 0.064, consume: 88.576s
+      150 loss: 0.582, lcls: 0.169, lreg: 0.351, lemb: 0.062, consume: 89.254s
+      200 loss: 0.591, lcls: 0.170, lreg: 0.356, lemb: 0.065, consume: 89.044s
+      250 loss: 0.589, lcls: 0.170, lreg: 0.355, lemb: 0.064, consume: 88.224s
+epoch: 73, consume: 477.647s, train_loss: 0.590, valid_loss: 0.487, cm_loss 0.043
+epoch: 74, lr: 0.1000000
+       50 loss: 0.589, lcls: 0.170, lreg: 0.356, lemb: 0.064, consume: 88.653s
+      100 loss: 0.584, lcls: 0.169, lreg: 0.353, lemb: 0.062, consume: 88.734s
+      150 loss: 0.586, lcls: 0.170, lreg: 0.354, lemb: 0.062, consume: 88.523s
+      200 loss: 0.586, lcls: 0.170, lreg: 0.353, lemb: 0.064, consume: 88.162s
+      250 loss: 0.584, lcls: 0.169, lreg: 0.354, lemb: 0.061, consume: 87.994s
+epoch: 74, consume: 475.639s, train_loss: 0.586, valid_loss: 0.487, cm_loss 0.043
+epoch: 75, lr: 0.1000000
+       50 loss: 0.588, lcls: 0.170, lreg: 0.354, lemb: 0.065, consume: 88.496s
+      100 loss: 0.582, lcls: 0.169, lreg: 0.352, lemb: 0.061, consume: 88.426s
+      150 loss: 0.580, lcls: 0.168, lreg: 0.351, lemb: 0.061, consume: 88.258s
+      200 loss: 0.586, lcls: 0.169, lreg: 0.353, lemb: 0.065, consume: 88.007s
+      250 loss: 0.584, lcls: 0.169, lreg: 0.352, lemb: 0.062, consume: 88.360s
+    valid loss: 0.470, lcls: 0.157, lreg: 0.314, cm_loss: 0.045, consume: 31.409s
+epoch: 75, consume: 510.994s, train_loss: 0.584, valid_loss: 0.470, cm_loss 0.045
+epoch: 76, lr: 0.1000000
+       50 loss: 0.581, lcls: 0.169, lreg: 0.351, lemb: 0.062, consume: 88.601s
+      100 loss: 0.577, lcls: 0.167, lreg: 0.348, lemb: 0.061, consume: 87.748s
+      150 loss: 0.582, lcls: 0.169, lreg: 0.353, lemb: 0.059, consume: 88.576s
+      200 loss: 0.579, lcls: 0.168, lreg: 0.350, lemb: 0.061, consume: 88.536s
+      250 loss: 0.580, lcls: 0.169, lreg: 0.350, lemb: 0.061, consume: 88.360s
+epoch: 76, consume: 475.314s, train_loss: 0.580, valid_loss: 0.470, cm_loss 0.045
+epoch: 77, lr: 0.1000000
+       50 loss: 0.582, lcls: 0.169, lreg: 0.353, lemb: 0.061, consume: 88.734s
+      100 loss: 0.576, lcls: 0.167, lreg: 0.349, lemb: 0.059, consume: 88.163s
+      150 loss: 0.580, lcls: 0.169, lreg: 0.351, lemb: 0.060, consume: 88.389s
+      200 loss: 0.578, lcls: 0.169, lreg: 0.350, lemb: 0.058, consume: 88.563s
+      250 loss: 0.577, lcls: 0.167, lreg: 0.349, lemb: 0.060, consume: 88.387s
+epoch: 77, consume: 475.856s, train_loss: 0.578, valid_loss: 0.470, cm_loss 0.045
+epoch: 78, lr: 0.1000000
+       50 loss: 0.573, lcls: 0.167, lreg: 0.348, lemb: 0.058, consume: 89.288s
+      100 loss: 0.577, lcls: 0.168, lreg: 0.349, lemb: 0.061, consume: 88.278s
+      150 loss: 0.575, lcls: 0.167, lreg: 0.348, lemb: 0.059, consume: 88.133s
+      200 loss: 0.573, lcls: 0.168, lreg: 0.348, lemb: 0.058, consume: 88.104s
+      250 loss: 0.575, lcls: 0.168, lreg: 0.349, lemb: 0.058, consume: 88.231s
+epoch: 78, consume: 475.875s, train_loss: 0.575, valid_loss: 0.470, cm_loss 0.045
+epoch: 79, lr: 0.1000000
+       50 loss: 0.573, lcls: 0.167, lreg: 0.349, lemb: 0.057, consume: 88.677s
+      100 loss: 0.575, lcls: 0.168, lreg: 0.348, lemb: 0.059, consume: 88.558s
+      150 loss: 0.575, lcls: 0.168, lreg: 0.349, lemb: 0.058, consume: 88.339s
+      200 loss: 0.574, lcls: 0.168, lreg: 0.347, lemb: 0.059, consume: 88.284s
+      250 loss: 0.569, lcls: 0.166, lreg: 0.347, lemb: 0.056, consume: 88.259s
+epoch: 79, consume: 475.892s, train_loss: 0.573, valid_loss: 0.470, cm_loss 0.045
+epoch: 80, lr: 0.0100000
+       50 loss: 0.564, lcls: 0.167, lreg: 0.345, lemb: 0.053, consume: 88.600s
+      100 loss: 0.561, lcls: 0.166, lreg: 0.343, lemb: 0.052, consume: 88.353s
+      150 loss: 0.566, lcls: 0.168, lreg: 0.346, lemb: 0.052, consume: 88.617s
+      200 loss: 0.559, lcls: 0.165, lreg: 0.343, lemb: 0.051, consume: 88.134s
+      250 loss: 0.558, lcls: 0.166, lreg: 0.343, lemb: 0.050, consume: 88.306s
+    valid loss: 0.461, lcls: 0.153, lreg: 0.308, cm_loss: 0.041, consume: 31.823s
+epoch: 80, consume: 511.995s, train_loss: 0.561, valid_loss: 0.461, cm_loss 0.041
+epoch: 81, lr: 0.0100000
+       50 loss: 0.560, lcls: 0.166, lreg: 0.344, lemb: 0.049, consume: 89.278s
+      100 loss: 0.562, lcls: 0.166, lreg: 0.344, lemb: 0.053, consume: 88.084s
+      150 loss: 0.563, lcls: 0.167, lreg: 0.345, lemb: 0.051, consume: 88.055s
+      200 loss: 0.556, lcls: 0.166, lreg: 0.342, lemb: 0.049, consume: 88.103s
+      250 loss: 0.559, lcls: 0.166, lreg: 0.344, lemb: 0.049, consume: 88.510s
+epoch: 81, consume: 475.877s, train_loss: 0.560, valid_loss: 0.461, cm_loss 0.041
+epoch: 82, lr: 0.0100000
+       50 loss: 0.559, lcls: 0.166, lreg: 0.343, lemb: 0.050, consume: 89.288s
+      100 loss: 0.562, lcls: 0.166, lreg: 0.345, lemb: 0.051, consume: 88.311s
+      150 loss: 0.560, lcls: 0.166, lreg: 0.344, lemb: 0.050, consume: 88.336s
+      200 loss: 0.559, lcls: 0.166, lreg: 0.343, lemb: 0.049, consume: 88.527s
+      250 loss: 0.559, lcls: 0.166, lreg: 0.342, lemb: 0.051, consume: 88.044s
+epoch: 82, consume: 476.059s, train_loss: 0.560, valid_loss: 0.461, cm_loss 0.041
+epoch: 83, lr: 0.0100000
+       50 loss: 0.561, lcls: 0.166, lreg: 0.344, lemb: 0.051, consume: 89.047s
+      100 loss: 0.557, lcls: 0.165, lreg: 0.343, lemb: 0.049, consume: 88.176s
+      150 loss: 0.558, lcls: 0.165, lreg: 0.343, lemb: 0.050, consume: 88.290s
+      200 loss: 0.559, lcls: 0.166, lreg: 0.344, lemb: 0.049, consume: 88.448s
+      250 loss: 0.556, lcls: 0.165, lreg: 0.342, lemb: 0.049, consume: 88.469s
+epoch: 83, consume: 476.084s, train_loss: 0.558, valid_loss: 0.461, cm_loss 0.041
+epoch: 84, lr: 0.0100000
+       50 loss: 0.556, lcls: 0.166, lreg: 0.342, lemb: 0.049, consume: 89.203s
+      100 loss: 0.559, lcls: 0.166, lreg: 0.343, lemb: 0.049, consume: 88.353s
+      150 loss: 0.555, lcls: 0.165, lreg: 0.341, lemb: 0.049, consume: 87.835s
+      200 loss: 0.560, lcls: 0.165, lreg: 0.343, lemb: 0.051, consume: 88.085s
+      250 loss: 0.558, lcls: 0.165, lreg: 0.343, lemb: 0.050, consume: 88.162s
+epoch: 84, consume: 475.420s, train_loss: 0.558, valid_loss: 0.461, cm_loss 0.041
+epoch: 85, lr: 0.0010000
+       50 loss: 0.557, lcls: 0.165, lreg: 0.342, lemb: 0.049, consume: 88.878s
+      100 loss: 0.563, lcls: 0.166, lreg: 0.346, lemb: 0.051, consume: 88.253s
+      150 loss: 0.552, lcls: 0.165, lreg: 0.340, lemb: 0.047, consume: 88.460s
+      200 loss: 0.555, lcls: 0.165, lreg: 0.341, lemb: 0.049, consume: 87.902s
+      250 loss: 0.557, lcls: 0.166, lreg: 0.343, lemb: 0.048, consume: 88.316s
+    valid loss: 0.460, lcls: 0.153, lreg: 0.307, cm_loss: 0.042, consume: 31.698s
+epoch: 85, consume: 511.598s, train_loss: 0.557, valid_loss: 0.460, cm_loss 0.042
